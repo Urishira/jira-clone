@@ -19,13 +19,17 @@
 		"@types/react-dom": "18.0.9",
 		"eslint": "^8.0.1",
 		"eslint-config-next": "13.0.4",
+		"luxon": "^3.1.1",
 		"next": "13.0.4",
 		"react": "18.2.0",
 		"react-dom": "18.2.0",
 		"typescript": "*",
+		"uuid": "^9.0.0",
 		"zustand": "^4.1.4"
 	},
 	"devDependencies": {
+		"@types/luxon": "^3.1.0",
+		"@types/uuid": "^9.0.0",
 		"@typescript-eslint/eslint-plugin": "^5.0.0",
 		"eslint-config-prettier": "^8.5.0",
 		"eslint-config-standard-with-typescript": "^23.0.0",
